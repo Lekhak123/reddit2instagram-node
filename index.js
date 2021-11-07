@@ -13,7 +13,7 @@ const sharp = require('sharp');
 const Buffer = require('buffer');
 const path = require('path');
 const prompt = require("prompt-sync")({ sigint: true });
-//With readline
+
 
 
 
